@@ -1,9 +1,9 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By SHAHAB ZAMAN
+#Codded By shadow-hacker
 #Editing My Script Will Not Make You A Coder
-#Facebook : Saabkabbaaphere
-#Whatsapp : ++923348772559
+#Facebook : error not found
+#Whatsapp : ++923203346497
 #Pakistan Cyber Expert
 #Alone Coder 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -85,8 +85,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "bangash"
-CorrectPassword = "tech"
+CorrectUsername = "sexy"
+CorrectPassword = "hacker"
 
 loop = 'true'
 while (loop == 'true'):
